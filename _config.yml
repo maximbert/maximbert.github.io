@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://maximbert.github.io
+title: Max IMBERT
+tagline: Tag line
+description: My awesome new site
+paginate: 5
